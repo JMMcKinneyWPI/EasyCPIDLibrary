@@ -1,0 +1,2 @@
+operator.c: In function 'operator':
+operator.c line# 15:12: warning: 'pidController' is used uninitialized in this function
